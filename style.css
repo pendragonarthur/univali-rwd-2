@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  border: 5px solid #ffaff4;
+  padding: 4rem;
+  width: 800px;
+}
+
+.text {
+  font-size: 20px;
+}
